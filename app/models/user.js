@@ -4,6 +4,7 @@ const userSchema = new mongoose.Schema({
   email: {
     type: String,
     required: true,
+    // prevents duplicate emails
     unique: true
   },
   hashedPassword: {
