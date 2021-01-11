@@ -1,6 +1,6 @@
 # Character Archive
 
-Utilize HTTP requests to create an archive of custom characters. This repo is for the back-end and speaks with the front-end [Front-end archive](https://github.com/Anthony-Rodriguez/character_archive-client) that was designed for this.
+Utilize HTTP requests to create an archive of custom characters. This repo is for the back-end [Back-end Deployed site](https://git.heroku.com/mysterious-taiga-75326.git) and speaks with the front-end [Front-end archive](https://github.com/Anthony-Rodriguez/character_archive-client) that was designed for this.
 
 Create an account and sign in. You'll be give a page with a few buttons on it. Click on New Character to start making your first character. After the fields have been completed, submit the form to create your first character. The 'My Characters' button will show all the characters you have. 'View Character' will only show a single character that you choose via their ID. (This will be updated in the future). You can update your character by, you guessed it, pressing the update button. You'll have to input the ID for the character you want to update as well as fill out the entire form. Changing your password is simple, but there's no forgot-password functionality at the moment, so be careful! Signing out will prevent others from accessing your characters, so don't forget to sign out if you plan on keeping the window open!
 
